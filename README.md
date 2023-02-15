@@ -26,7 +26,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?usernameqqiwu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+<img  src="https://github-profile-trophy.vercel.app/?username=qqiwu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
 <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qqiwu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
