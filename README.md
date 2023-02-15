@@ -16,8 +16,8 @@
     <a href="#"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="#/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://space.bilibili.com/235065725"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/yhwl66"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=qqiwu" alt="访客统计" />
